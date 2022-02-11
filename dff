@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# diff
+
+clear
+~/working/tools/bin/svn-wdiff-html -o diff.html -r "$1" ./hlva.txt
+svn ci -m "diff" diff.html
+
