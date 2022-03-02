@@ -1,5 +1,0 @@
-
-HLVA
-
-Put verbage in HLVA supporting an IEPD-based versioning approach.  Right now HLVA only focuses on releases and domains, and leaves an information gap.  We should at least mention that IEPDs have their own versioning processes, and are managed independently of the Core and domains.  I would expect the IEPD versioning document to carry the details, but HLVA should either delegate or hint that there is another place to look.
-
